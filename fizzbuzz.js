@@ -36,5 +36,5 @@ function fizz_buzz(n) {
     return resultado;
   }
 
-  /*probando con el 2*/
+  /*probando con el 5*/
   console.log(fizz_buzz(5))
